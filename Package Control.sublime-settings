@@ -5,14 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
 		"Emmet",
 		"ERB Snippets",
+		"FileIcons",
 		"Git",
 		"GitGutter",
 		"Package Control",
+		"Pretty Ruby",
+		"React Templates",
+		"RuboCop",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-rubocop"
