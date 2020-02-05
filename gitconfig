@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = tylermcwilliam@gmail.com
-	name = Tyler McWilliam
+	name = tyler-mcwilliam
 [filter "lfs"]
 	process = git-lfs filter-process
 	required = true
